@@ -28,15 +28,6 @@ To run this program, simply use ```python3 GUI.py```
 - The module will walk you through a series of interactive questions.
 - Hints are provided.
 
-**3. IDA Python Plug-In Working?**
-- Yes: Continue to the next step.
-- No: Currently no tips to solve this problem.
-
-
-**7. Downloaded this repository (At least the file AngryIDA.py)?**
-- Yes: You are ready to use AngryIDA!
-- No: Why not?
-
 ## TODO
 
 * Documentation
